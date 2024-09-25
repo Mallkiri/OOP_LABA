@@ -1,0 +1,5 @@
+﻿  ElectricityBill.cpp
+  Main.cpp
+  Создание кода...
+E:\Code\Lab_OOP\ElectricityBill.cpp(94,1): warning C4715: ElectricityBill::Selector: значение возвращается не при всех путях выполнения
+  Lab_OOP.vcxproj -> E:\Code\Lab_OOP\x64\Debug\Lab_OOP.exe
